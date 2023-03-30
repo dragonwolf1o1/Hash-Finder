@@ -81,3 +81,4 @@ while choose!=0:
         file_location = input("Enter the file location: ")
     else:
         choose=int(input(Fore.CYAN+"Please enter the correct number:"))
+    print("Good Bye!")
