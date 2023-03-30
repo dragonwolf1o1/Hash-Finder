@@ -24,8 +24,9 @@ def font():
     print(Fore.GREEN + "[0] " + Fore.CYAN + "Exit")
 
 font()
-choose = int(input(Fore.CYAN + "Choose any one option: "))
 file_location=input("Enter the file location: ")
+choose = int(input(Fore.CYAN + "Choose any one option: "))
+
 
 def md5():
     md5_hash = hashlib.md5()
