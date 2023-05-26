@@ -6,13 +6,11 @@
 
 
 
-# Installation
-
+## *Installation:-*
+```
 git clone https://github.com/dragonwolf1o1/Hash-Finder.git
-
 cd Hash-Finder
-
 pip3 install -r requirements.txt
-
 python3 main.py
 
+```
