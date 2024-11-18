@@ -13,7 +13,7 @@ print(Fore.RED+"===========================================================")
 
 print(Fore.RED+"Github: "+Fore.BLUE + "https://github.com/dragonwolf1o1")
 
-project_name="Hash Calculator"
+project_name="Hashs Calculators"
 print(Fore.GREEN + project_name.center(50))
 
 def font():
